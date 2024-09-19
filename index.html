@@ -10,8 +10,7 @@
 function closer(){
     window.close(); 
     window.top.close();
-    var win = window.open("about:blank", "_self");
-    win.close();
+    window.close('','_parent','');
 }
 window.open(window.location.search.slice(1), '').focus();
 closer()
