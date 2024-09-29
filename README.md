@@ -7,4 +7,4 @@ https://rxsend19.github.io/Redirector/?vscode:extension/ms-python.python
 
 https://rxsend19.github.io/Redirector/?obsidian://
 
-https://rxsend19.github.io/Redirector/?
+[https://rxsend19.github.io/Redirector/?](https://rxsend19.github.io/Redirector/?)
